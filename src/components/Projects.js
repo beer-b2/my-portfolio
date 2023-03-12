@@ -14,7 +14,7 @@ export const Projects = () => {
       description: "A challange by frontend mentor",
       link: "View",
       imgUrl: projImg1,
-      projLink: "beer-b2.github.io",
+      projLink: "https://beer-b2.github.io/",
     },
     {
       title: "NFT Preview Card Component",
