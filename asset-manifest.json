@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.76ddf952.css",
+    "main.css": "/my-portfolio/static/css/main.26c56cb7.css",
     "main.js": "/my-portfolio/static/js/main.818c47f0.js",
     "static/js/787.31d098da.chunk.js": "/my-portfolio/static/js/787.31d098da.chunk.js",
     "static/media/rahnama-shipbuilding-website.png": "/my-portfolio/static/media/rahnama-shipbuilding-website.33e648860fe8067336e7.png",
@@ -28,12 +28,12 @@
     "index.html": "/my-portfolio/index.html",
     "static/media/nav-icon1.svg": "/my-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/arrow1.svg": "/my-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.76ddf952.css.map": "/my-portfolio/static/css/main.76ddf952.css.map",
+    "main.26c56cb7.css.map": "/my-portfolio/static/css/main.26c56cb7.css.map",
     "main.818c47f0.js.map": "/my-portfolio/static/js/main.818c47f0.js.map",
     "787.31d098da.chunk.js.map": "/my-portfolio/static/js/787.31d098da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76ddf952.css",
+    "static/css/main.26c56cb7.css",
     "static/js/main.818c47f0.js"
   ]
 }
